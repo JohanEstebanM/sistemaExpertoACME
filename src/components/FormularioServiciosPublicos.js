@@ -21,11 +21,11 @@ const FormularioServiciosPublicos = ({ onGuardar }) => {
         <option value="">Selecciona una opción</option>
         <option value="10">Agua, Luz y Gas</option>
         <option value="5">Agua y Luz</option>
-        <option value="3">Agua y Gas</option>
+        <option value="4">Agua y Gas</option>
         <option value="3">Luz y Gas</option>
-        <option value="1">Luz</option>
+        <option value="2">Luz</option>
         <option value="1">Agua</option>
-        <option value="1">Gas</option>
+        <option value="0.5">Gas</option>
         <option value="0">Ninguno</option>
       </select>
     </div>
