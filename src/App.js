@@ -184,7 +184,6 @@ function PaginaPrincipal() {
             </section>
           </div>
         </section>
-        hola
       </main>
     </>
   );
